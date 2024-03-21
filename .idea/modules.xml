@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/scrapping_nba_data_with_bs4_and_requestsLib.iml" filepath="$PROJECT_DIR$/.idea/scrapping_nba_data_with_bs4_and_requestsLib.iml" />
+    </modules>
+  </component>
+</project>

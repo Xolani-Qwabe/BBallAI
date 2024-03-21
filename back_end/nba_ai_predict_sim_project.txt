@@ -1,0 +1,36 @@
+nba_simulation_project/
+│
+├── data/
+│   ├── players.csv
+│   ├── teams.csv
+│   ├── game_schedule.csv
+│   └── ...
+│
+├── src/
+│   ├── __init__.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── entity.py
+│   │   ├── simulation.py
+│   │   └── ...
+│   │
+│   ├── utils/
+│   │   ├── __init__.py
+│   │   ├── data_loader.py
+│   │   └──
+│   │
+│   └── main.py
+│
+├── tests/
+│   ├── __init__.py
+│   ├── test_entity.py
+│   ├── test_simulation.py
+│   └── ...
+│
+├── docs/
+│   ├── README.md
+│   └── ...
+│
+├── requirements.txt
+│
+└── LICENSE

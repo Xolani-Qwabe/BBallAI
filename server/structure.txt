@@ -1,0 +1,43 @@
+project/
+│
+├── app/
+│   ├── __init__.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── player.py
+│   │   ├── team.py
+│   │   ├── game.py
+│   │   ├── prediction.py
+│   │   ├── matchup.py
+│   │   ├── team_news.py
+│   │   ├── injury.py
+│   │   └── form_trend.py
+│   │
+│   ├── services/
+│   │   ├── __init__.py
+│   │   ├── player_service.py
+│   │   ├── team_service.py
+│   │   ├── game_service.py
+│   │   ├── prediction_service.py
+│   │   ├── matchup_service.py
+│   │   ├── team_news_service.py
+│   │   ├── injury_service.py
+│   │   └── form_trend_service.py
+│   │
+│   ├── handlers/
+│   │   ├── __init__.py
+│   │   ├── player_handler.py
+│   │   ├── team_handler.py
+│   │   ├── game_handler.py
+│   │   ├── prediction_handler.py
+│   │   ├── matchup_handler.py
+│   │   ├── team_news_handler.py
+│   │   ├── injury_handler.py
+│   │   └── form_trend_handler.py
+│   │
+│   ├── db/
+│   │   └── mongodb.py
+│   │
+│   └── main.py
+│
+└── requirements.txt
